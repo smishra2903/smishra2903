@@ -3,7 +3,7 @@ I am working as a Software Engineer with American Express<br>I am an IIT Roorkee
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhi-mishra-5a4375151/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Shubhi_ShobhnaM 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhi-mishra-5a4375151/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/[https://twitter.com/Shubhi_ShobhnaM ](https://twitter.com/Shubhi_ShobhnaM)
 
 
 # 💻 Tech Stack:
