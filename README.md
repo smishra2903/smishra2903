@@ -1,5 +1,5 @@
 # Hello, I am Shubhi Mishra:
-I am working as a Software Engineer with American Express<br>I am an IIT Roorkee '21 graduate<br>I am learning about blockchain<br>Pronoun: she/her<br>Reach me on: Twitter-@Shubhi_Mishra<br>Fun fact: I have 33 teeth <br>
+I am working as a Software Engineer with American Express<br>I am an IIT Roorkee '21 graduate<br>I am learning about blockchain<br>Pronoun: she/her<br>Reach me on: Twitter-@Shubhi_ShobhnaM<br>Fun fact: I have 33 teeth <br>
 
 
 ## 🌐 Socials:
